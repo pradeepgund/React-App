@@ -7,4 +7,6 @@ Note : This is not an inteligent app. It work on random action selection from av
 
 Created with CodeSandbox
 
+You can directly view formatted code and run app in CodeSandbox website using below link. 
 
+Application Link : https://codesandbox.io/s/github/pradeepgund/React-App
